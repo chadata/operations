@@ -24,7 +24,7 @@
    - Windows:
 
      ```shell
-     myenv\Scripts\activate
+     . myenv/Scripts/activate
      ```
 
    - macOS/Linux:
